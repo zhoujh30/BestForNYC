@@ -1,6 +1,6 @@
 //////////////////////////////////////////////////
-//  Design and code: Jorge Cortes, MGIS Unit    //
-//  Created: June, 2015                         //
+//  Design and code: Felix Zhou, MGIS Unit      //
+//  Created: Feb, 2016                          //
 //                                              //
 //////////////////////////////////////////////////
 
@@ -24,9 +24,9 @@ var classIcon=L.Icon.extend({
 });
 
 //Unique icons for classification
-var Green = new classIcon({iconUrl: 'Images/Green-Marker.png'}),
-    Red = new classIcon({iconUrl: 'Images/Red-Marker.png'}),
-    Amber = new classIcon({iconUrl: 'Images/Amber-Marker.png'});
+var Green = new classIcon({iconUrl: 'images/Green-Marker.png'}),
+    Red = new classIcon({iconUrl: 'images/Red-Marker.png'}),
+    Amber = new classIcon({iconUrl: 'images/Amber-Marker.png'});
 
 //Layers to receive classified csv data
 var Finalist = new L.LayerGroup(),
@@ -51,7 +51,7 @@ function lSort(marker) {
     }
 
 //Load csv file
-var points = omnivore.csv('Data/BestForNYC.csv', {delimiter: ','})
+var points = omnivore.csv('data/BestForNYC.csv', {delimiter: ','})
     .on('ready', function(){
         points.eachLayer(lSort)
     });
