@@ -1,0 +1,23 @@
+cartodb_id,the_geom,company,address,latitude,longtitude,city,zipcode,industry,size,status,score,environment_company,env_benchmark,workers_company,workers_benchmark,customers_company,customers_benchmark,community_company,community_benchmark,governance_company,governance_benchamark
+1,0101000020E6100000E816BA12817F52C078465B9544564440,Architectural Grille,42 Second Avenue,40.673968,-73.992253,Brooklyn,11215,Fabricated metal products,10 - 49,Finalist,63.7,6,7,12,18,1,3,11,17,1,6
+2,0101000020E61000007FBC57AD4C7D52C0D57B2AA73D574440,Prosper Digital,1078 Fulton Street,40.681569,-73.957805,Brooklyn,11238,"Film, TV & Music Production",NA,Finalist,40.9,5,7,22,18,2,3,22,17,2,6
+3,0101000020E6100000E71725E82F7D52C081AFE8D66B5E4440,HUSSAR METALS,95 Commercial St,40.737666,-73.956049,Brooklyn,11222,Custom Metal Fabrication,NA,Finalist,80.5,3,7,1,18,3,3,10,17,7,6
+4,0101000020E610000085ECBC8DCD7B52C0B4C70BE9F05A4440,Revivn,361 Stagg Street,40.710477,-73.934421,Brooklyn,11206,Recycling Services,NA,Finalist,135.7,5,7,23,18,2,3,12,17,3,6
+5,0101000020E6100000F9A3A833F77D52C082397AFCDE524440,Progreso Unisex Salon,1215 Church Ave,40.64743,-73.968213,Brooklyn,11218,Hairdressing & other beauty services,NA,Finalist,11.5,7,7,7,18,1,3,3,17,4,6
+6,0101000020E6100000AF9811DE1E7E52C07573F1B73D594440,"Joya, LLC",19 Vanderbilt Ave,40.697196,-73.970634,Brooklyn,11205,Consumer Products & Services,10 - 49,Finalist,55.8,9,7,5,18,4,3,5,17,3,6
+7,0101000020E610000019AE0E80B87D52C02CBAF59A1E504440,Fredda Weinberg,960 E 12th St,40.625934,-73.964386,Brooklyn,11230,Health & Human Services,1-9,Finalist,17.8,3,7,33,18,3,3,12,17,5,6
+8,0101000020E6100000890AD5CDC58052C02AE620E868534440,Zoi Contracting Inc.,267 44T Street,40.651639,-74.012073,Brooklyn,11232,Climate Control Mechanical Contractor (HVAC) & Ductwork Fabrication/Installation,1-9 ,Finalist,37,1,7,2,18,2,3,12,17,2,6
+9,0101000020E6100000ACFF73982F7E52C02EFF21FDF6574440,Camp Fort Greene,343 Carlton Avenue ,40.687225,-73.971655,Brooklyn,11238,Summer Camp Program,NA,Finalist,87.4,2,7,14,18,5,3,18,17,6,6
+10,0101000020E6100000FB93F8DC097D52C08A05BEA25B574440,Fit 4 Dance,1195 Bedford Ave,40.682484,-73.953727,Brooklyn,11216,Dance and Fitness Classes,NA,Finalist,30.8,3,7,15,18,3,3,17,17,3,6
+11,0101000020E6100000A33CF372D87B52C026E2ADF36F574440,Therapy Wine Bar,364 Lewis Avenue,40.683104,-73.935086,Brooklyn,11233,"Wine, Beer, Liquor and small plates",1-9,Finalist,41.9,4,7,17,18,6,3,17,17,7,6
+12,0101000020E6100000D50627A25F7E52C09DB98784EF574440,Pequena,86 S Portland Ave,40.686997,-73.974587,Brooklyn,11217,"Restaurant, Hospitality, & Travel",10-49,Finalist,25.2,5,7,17,18,7,3,15,17,3,6
+13,0101000020E6100000AD889AE8F37E52C0EE0912DBDD574440,Evolution the Green Room Salon,442 Atlantic Ave,40.686458,-73.983637,Brooklyn,11217,Hairdressing & other beauty services,1-9,Finalist,29,2,7,34,18,3,3,11,17,7,6
+14,0101000020E61000009983A0A3557F52C084F57F0EF3594440,Creative Business Inc,55 Washington St,40.70273,-73.989602,Brooklyn,11201-1036,Business Products and Services,1-9,Participant,NA,,,,,,,,,,
+15,0101000020E61000004A0D6D00367F52C05663096B63564440,Soapwalla Inc.,232 Third Street,40.674909,-73.987671,Brooklyn,11215,Personal Care Products,1-9,Participant,NA,,,,,,,,,,
+16,0101000020E610000013EE9579AB7C52C0D6ABC8E8805C4440,"Accecco, LLC dba Toro Ironworks Kitchen & Bar",254 Driggs Ave,40.722684,-73.947966,Brooklyn,11222,"Restaurant, Hospitality, & Travel",1-9,Participant,NA,,,,,,,,,,
+17,0101000020E610000001A260C6147E52C029B4ACFBC7524440,Prospect Gymnastics,1023 Church Ave,40.646728,-73.970018,Brooklyn,11218,Health & Human Services,1-9,Participant,NA,,,,,,,,,,
+18,0101000020E6100000FB93F8DC098052C063B6645584574440,InStep Consulting LLC,179 Union St,40.683726,-74.000602,Brooklyn,11231,Business Products and Services,NA,Participant,NA,,,,,,,,,,
+19,0101000020E6100000C6504EB4AB7E52C09CE09BA6CF564440,Bogota Latin Bistro,141 5th Ave,40.678212,-73.97923,Brooklyn,11217,"Restaurant, Hospitality, & Travel",50-249,Participant,NA,,,,,,,,,,
+20,0101000020E6100000DB87BCE5EA7B52C0CB660E492D584440,"Chantior Real Estate, LLC",219 Lewis Ave,40.688882,-73.936212,Brooklyn,11221,"Real Estate Services Residential Sales, Rental, Commercials",1-9,Participant,NA,,,,,,,,,,
+21,0101000020E6100000DF196D55127D52C0707CED9925574440,Brooklyn Alternative Market at Fulton Flea,1181 Fulton Street,40.680835,-73.954244,Brooklyn,11216,Management and Marketing,1-9,Participant,NA,,,,,,,,,,
+22,0101000020E6100000FA5E43705C7E52C02942EA76F6574440,Melt Massage & Bodywork LLC,84 Lafayette Ave,40.687209,-73.974392,Brooklyn,11217,Health & Human Services,1-9,Participant,NA,,,,,,,,,,

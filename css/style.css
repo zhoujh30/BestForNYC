@@ -1,0 +1,49 @@
+/*////////////////////////////////////////////////
+//  Design and code: Jorge Cortes, MGIS Unit    //
+//  Created: June, 2015                         //
+//                                              //
+////////////////////////////////////////////////*/
+
+/*CSS style code*/
+
+<style>
+/*Map-specific selectors*/
+    body { 
+        margin:0; 
+        padding:0; 
+    }
+    
+    #map { 
+        position:absolute; 
+        top:0; 
+        bottom:0; 
+        width:100%; 
+        margin-left: -8px;
+    }
+    
+    #hNYCLogo {
+        position:fixed; 
+        bottom:-4px; 
+        left:0;  
+    }
+    
+/*Leaflet popup selectors*/
+    .popup {
+        font-size:12px;
+        margin:0; 
+        padding:10px;    
+        background-color:;
+        }
+    
+    .popback {
+        color: gainsboro;
+        width: 500px;
+    }
+
+/*Popup table data selector*/
+    td {
+        font-family: 'Frutiger Neue W01 Light';
+        border-collapse: separate;
+        border-spacing:5;
+    }
+</style>
