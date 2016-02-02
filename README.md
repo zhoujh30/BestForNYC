@@ -1,3 +1,3 @@
 # BestForNYC
 
-This is a example interactive map with popups.
+This is an example interactive map with popups.
